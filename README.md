@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**CarlosHenrique-dd/CarlosHenrique-dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+	<img
+		allign="center"
+		height="148"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenrique-dd&theme=codeSTACKr&layout=compact"
+	/>
+	<img
+		allign="center"
+		height="148"
+		src="https://github-readme-stats.vercel.app/api?username=CarlosHenrique-dd&count_private=true&&show_icons=true&theme=codeSTACKr"
+	/>
+</div>
 
-Here are some ideas to get you started:
+## Estou Estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+	<img
+		allign="center"
+		height="30" width="40"
+		src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+	/>
+	
+</div>
