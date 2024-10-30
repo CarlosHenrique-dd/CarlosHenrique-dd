@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Henrique</h1>
-<h3 align="center">Desenvolvedor Backend Java.</h3>
+<h3 align="center">Full Stack Typescript</h3>
 
-- 🌱 I’m currently learning **Java, SQL, React**
+- 🌱 I’m currently learning **Nest, React/Native, SQL**
 
 - 📫 How to reach me **Carlos.alves.ca12@gmail.com**
 
